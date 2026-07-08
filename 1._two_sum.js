@@ -16,5 +16,5 @@ var twoSum = function (nums, target) {
     }
 };
 
-const result = twoSum([2,7,11,15], 9)
+const result = twoSum([2,7,11,15], 22)
 console.log(result);
